@@ -14,4 +14,13 @@ This repository includes the following resources:
 
 - **Results**: The supplementary results discussed in the paper are included for reference.
 
-- **Code (Future Update)**: Once the paper is reviewed, we plan to release the code used for implementing the bias mitigation approach. The code will be provided along with instructions to replicate the experiments and apply the proposed method.
+- **Code**: Once the paper is reviewed, we plan to make public the code used for our experiments.
+
+## Repository structure
+
+- **results**: Folder containing the experiments results.
+- ***apply_metrics.py***: Python file that contains the functions to compute the fairness metrics.
+- ***machine_learning.py***: Python file that contains the functions to apply machine learning algorithms.
+- ***preprocessing.py***: Python file that contains the functions to process the data.
+- ***requirements.txt***: File containing the requirements to execute our experiments.
+- ***statistical_measures.py***: Python file that contains the functions to compute the statistical tests needed for some bias mitigation approaches.
