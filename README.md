@@ -18,9 +18,12 @@ This repository includes the following resources:
 
 ## Repository structure
 
-- **results**: Folder containing the experiments results.
+- **results**: Folder containing the results of the experiments, with extra images to facilitate the analysis of the results.
 - ***apply_metrics.py***: Python file that contains the functions to compute the fairness metrics.
 - ***machine_learning.py***: Python file that contains the functions to apply machine learning algorithms.
 - ***preprocessing.py***: Python file that contains the functions to process the data.
 - ***requirements.txt***: File containing the requirements to execute our experiments.
 - ***statistical_measures.py***: Python file that contains the functions to compute the statistical tests needed for some bias mitigation approaches.
+- ***preprocessing.py***: Python file that contains the functions to visualize the data.
+- ***WS_FolkTables.ipynb***: Jupyter Notebook to execute all the experiments.
+- ***WS_AnalyseResults.ipynb***: Jupyter Notebook to analyse all the experiments.
