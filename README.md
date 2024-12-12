@@ -1,6 +1,6 @@
 # Transferring Knowledge to Tackle Machine Learning Bias when Sensitive Information is not Available
 
-This repository contains supplementary materials related to the paper titled "Transferring Knowledge to Tackle Machine Learning Bias when Sensitive Information is not Available" submitted to the AIES 2024 conference. The paper addresses the challenge of mitigating bias in machine learning algorithms when access to sensitive attributes is restricted due to privacy or legal concerns. The proposed approach leverages covariance analysis and alternative indicators to indirectly address bias in scenarios where sensitive attribute data is unavailable.
+This repository contains supplementary materials related to the paper titled "Transferring Knowledge to Tackle Machine Learning Bias when Sensitive Information is not Available" (under review). The paper addresses the challenge of mitigating bias in machine learning algorithms when access to sensitive attributes is restricted due to privacy or legal concerns. The proposed approach leverages covariance analysis and alternative indicators to indirectly address bias in scenarios where sensitive attribute data is unavailable.
 
 ## Paper Abstract
 
